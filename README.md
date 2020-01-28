@@ -34,6 +34,6 @@ PAUSE
 
 * This will start the jar file with 1GB of ram. Feel free to change the ram. 
 
-> `-Xmx2048M` = 2GB
-> `-Xmx3072M` = 3GB
+> `-Xmx2048M` = 2GB <br>
+> `-Xmx3072M` = 3GB <br>
 > *etc. etc. Just add 1024 to add 1GB*
